@@ -1,0 +1,47 @@
+html{
+  height: 100%;
+}
+body {
+  background-color: #1c828e;
+  height: 100%;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.navbar{
+  background-color: #166e78;
+  height: 25px;
+}
+#main_container{
+  height: 100%;
+}
+
+#first_face_selection{
+  background-color: #fdfffe;
+  height: 35%;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 5px;
+}
+
+#intro_text{
+  text-align: center;
+  padding-top: 3%;
+  color: #9c9c9c;
+}
+
+#logo{
+  height:20px;
+}
+
+.navbar-nav > li > a {padding-top:5px !important; padding-bottom:5px !important;}
+.navbar {min-height:32px !important}
+.navbar-nav{
+  margin: 0px;
+}
+
+#awesome_img{
+  width: 100%;
+}
