@@ -17,7 +17,7 @@ The question order is randomized when a user chooses the original emotion.
 
 I used radio-buttons instead of a slider because it would have been very time consuming to show the animation of the bar moving to the correct button. 
 
-I used screenshots of the faces, so their sizes vary a bit. 
+I used screenshots of the faces, so their sizes vary a bit and I had to keep the annoying white boxes around them. 
 
 The app is fully responsive. 
 
