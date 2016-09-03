@@ -21,4 +21,4 @@ I used screenshots of the faces, so their sizes vary a bit and I had to keep the
 
 The app is fully responsive. 
 
-The logo in thr top corner opens an email to be sent to support@butterfly.com
+The logo in the top corner opens an email to be sent to support@butterfly.com
